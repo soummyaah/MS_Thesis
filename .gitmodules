@@ -1,0 +1,9 @@
+[submodule "FNXL"]
+	path = FNXL
+	url = https://github.com/soummyaah/FNXL.git
+[submodule "FinRED"]
+	path = FinRED
+	url = https://github.com/soummyaah/FinRED.git
+[submodule "KGMedNLI"]
+	path = KGMedNLI
+	url = https://github.com/soummyaah/KGMedNLI.git
